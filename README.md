@@ -128,3 +128,5 @@ make clean   # Clean up build files
 - Used command-line argument parsing and validation
 - Built and ran the project inside a Dockerized Linux dev environment
 ---
+
+Link to the original [GitHub repository](https://github.com/hossei-cyber/file-encryptor)
